@@ -27,6 +27,8 @@ There is probably a lot more broken than the list down below...
 - Cannot choose wallpapers
 - Even if you install stocks apps, they will most likely not work
 
+I will continue modifying this to my liking, keep in mind that this is working on my Samsung Galaxy A12 and might not work for you.
+
 [Download at your own risk](https://drive.usercontent.google.com/download?id=18AngnUP9IJAE5gKLswSexi9mqxgcvILy&export=download&authuser=0)
 
-Extract the .img using 7Zip.
+Extract the .7z using 7Zip.
