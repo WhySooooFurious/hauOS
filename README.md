@@ -4,13 +4,13 @@ A debloated GSI of Lineage19.1.
 
 Renamed to hauOS.
 
-You might be thinking *why, Lineage is already debloated, well I know that obviously, I was like *why not*. This was a personal project for me, I wanted a light GSI in which I didn't have apps I would use on a phone I liked tinkering with. It only took a day and i'm quite pleased with the result.
+You might be thinking *why*, Lineage is already debloated, well I know that obviously, I was like *why not*. This was a personal project for me, I wanted a light GSI in which I didn't have apps I would use on a phone I liked tinkering with. It only took a day and a bit. I'm quite pleased with the result.
 
 I deleted useless system packages and stock apps. Do not use this if you intend for you phone to work as a phone. It'll turn your phone into a glorified tablet.
 
 Pros: 
 
-- Decreased RAM usage (-200mb)
+- Decreased RAM usage (200-300mb decrease)
   
 - Debloated system apps (Only apps are Browser, Files and Settings)
 
