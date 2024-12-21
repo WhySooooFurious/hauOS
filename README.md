@@ -2,7 +2,7 @@
 
 A debloated GSI of Lineage19.1.
 
-Just renamed to hauOS.
+Renamed to hauOS.
 
 You might be thinking *why, Lineage is already debloated, well I know that obviously, I was like *why not*. This was a personal project for me, I wanted a light GSI in which I didn't have apps I would use on a phone I liked tinkering with. It only took a day and i'm quite pleased with the result.
 
