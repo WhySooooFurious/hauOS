@@ -29,6 +29,17 @@ There is probably a lot more broken than the list down below...
 
 I will continue modifying this to my liking, keep in mind that this is working on my Samsung Galaxy A12 and might not work for you.
 
+
+V1:
+Stock Apps
+
 [Download at your own risk](https://drive.usercontent.google.com/download?id=18AngnUP9IJAE5gKLswSexi9mqxgcvILy&export=download&authuser=0)
+
+V2:
+Bromite WebView
+Via Browser
+More Junk cleared
+
+[Download at your own risk]()
 
 Extract the .7z using 7Zip.
