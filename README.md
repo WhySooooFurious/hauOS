@@ -31,14 +31,14 @@ I will continue modifying this to my liking, keep in mind that this is working o
 
 
 V1:
-Stock Apps
+- Stock Apps
 
 [Download at your own risk](https://drive.usercontent.google.com/download?id=18AngnUP9IJAE5gKLswSexi9mqxgcvILy&export=download&authuser=0)
 
 V2:
-Bromite WebView
-Via Browser
-More Junk cleared
+- Bromite WebView
+- Via Browser
+- More Junk cleared
 
 [Download at your own risk]()
 
