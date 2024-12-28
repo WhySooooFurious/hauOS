@@ -33,16 +33,11 @@ I will continue modifying this to my liking, keep in mind that this is working o
 V1:
 - Stock Apps
 
-[528mb/1.84gb]
-
 V2:
 - Bromite WebView
 - Via Browser
 - More Junk cleared
 
-[450mb/
-
-[Download]()
 
 Extract the .7z using 7Zip.
 
