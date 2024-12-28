@@ -33,11 +33,14 @@ I will continue modifying this to my liking, keep in mind that this is working o
 V1:
 - Stock Apps
 
+[Download](https://drive.usercontent.google.com/download?id=1fWAYyzMRoAToJx3iAoiqwg3jfwgECSaJ&export=download&authuser=0)
+
 V2:
 - Bromite WebView
 - Via Browser
 - More Junk cleared
 
+[Download](https://drive.usercontent.google.com/download?id=1F0bDjGl_wfRaU68dHKztJPuJQnkVMD7k&export=download&authuser=0)
 
 Extract the .7z using 7Zip.
 
