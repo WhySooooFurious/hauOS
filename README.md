@@ -33,13 +33,15 @@ I will continue modifying this to my liking, keep in mind that this is working o
 V1:
 - Stock Apps
 
-[Download at your own risk](https://drive.usercontent.google.com/download?id=18AngnUP9IJAE5gKLswSexi9mqxgcvILy&export=download&authuser=0)
+[Download](https://drive.usercontent.google.com/download?id=18AngnUP9IJAE5gKLswSexi9mqxgcvILy&export=download&authuser=0)
 
 V2:
 - Bromite WebView
 - Via Browser
 - More Junk cleared
 
-[Download at your own risk]()
+[Download]()
 
 Extract the .7z using 7Zip.
+
+Flash to your device as you normally would, wipe and format after flashing.
