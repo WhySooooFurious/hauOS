@@ -25,7 +25,7 @@ There is probably a lot more broken than the list down below...
 - Most likely will only work with Samsungs
 - Calling/Messaging will not work
 - Cannot choose wallpapers
-- Even if you install stocks apps, they will most likely not work
+- Even if you install stock apps, they will most likely not work
 
 I will continue modifying this to my liking, keep in mind that this is working on my Samsung Galaxy A12 and might not work for you.
 
